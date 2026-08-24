@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Prefix Sum
