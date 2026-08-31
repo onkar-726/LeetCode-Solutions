@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
