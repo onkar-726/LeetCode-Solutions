@@ -3,10 +3,10 @@ class Solution {
         int n = nums.length;
         for (int i = 0; i < n; i++) {
             int sum = 0;
-            int temp = nums[i];
-            while (temp > 0) {
-                sum += temp % 10;
-                temp /= 10;
+            int var = nums[i];
+            while (var > 0) {
+                sum += var % 10;
+                var /= 10;
             }
             if(sum==i){
                 return i;
