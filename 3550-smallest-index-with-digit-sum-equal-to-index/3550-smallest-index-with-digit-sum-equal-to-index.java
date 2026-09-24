@@ -4,7 +4,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int sum = 0;
             int temp = nums[i];
-            temp = Math.abs(temp);
             while (temp > 0) {
                 sum += temp % 10;
                 temp /= 10;
