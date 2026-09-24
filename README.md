@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2540-minimum-common-value](https://github.com/onkar-726/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/onkar-726/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
