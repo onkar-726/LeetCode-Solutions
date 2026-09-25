@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/onkar-726/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/onkar-726/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
