@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [2540-minimum-common-value](https://github.com/onkar-726/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
