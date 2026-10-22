@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/onkar-726/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0326-power-of-three](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/onkar-726/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [2540-minimum-common-value](https://github.com/onkar-726/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -113,5 +115,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/onkar-726/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/onkar-726/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/onkar-726/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
